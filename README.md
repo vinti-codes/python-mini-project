@@ -27,12 +27,14 @@ python something.py
 
 📋 Grading System
 
-Average Score	Grade
-90 - 100	A+
-80 - 89	A
-70 - 79	B
-60 - 69	C
-50 - 59	D
-Below 50	F
+| Average Score | Grade |
+|--------------|-------|
+| 90 - 100     | A+    |
+| 80 - 89      | A     |
+| 70 - 79      | B     |
+| 60 - 69      | C     |
+| 50 - 59      | D     |
+| Below 50     | F     |
+
 
 📸 Screenshot
