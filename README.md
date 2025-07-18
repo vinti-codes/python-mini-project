@@ -18,14 +18,12 @@ This is a simple Python CLI (Command Line Interface) application to manage and t
 
 1. Clone the repository or download the files  
 2. Run the script using Python:
-
 ```bash
 python something.py
 ```
-
 3. Follow the menu to add or view student records
 
-📋 Grading System
+## 📋 Grading System
 
 | Average Score | Grade |
 |--------------|-------|
