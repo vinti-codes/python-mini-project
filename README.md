@@ -5,7 +5,7 @@ This is a simple Python CLI (Command Line Interface) application to manage and t
 
 ---
 
-##🚀 Features
+## 🚀 Features
 
 - Add student name and marks for 3 subjects  
 - Automatically calculates average score  
@@ -14,7 +14,7 @@ This is a simple Python CLI (Command Line Interface) application to manage and t
 
 ---
 
-##🔧 How to Use
+## 🔧 How to Use
 
 1. Clone the repository or download the files  
 2. Run the script using Python:
