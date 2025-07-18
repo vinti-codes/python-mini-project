@@ -1,5 +1,5 @@
 ## python-mini-project
-🎓 Student Grade Tracker (Mini Project)
+## 🎓 Student Grade Tracker (Mini Project)
 
 This is a simple Python CLI (Command Line Interface) application to manage and track student grades based on their subject marks.
 
